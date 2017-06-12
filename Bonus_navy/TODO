@@ -1,0 +1,22 @@
+  *
+  *              JJJJJJJJJJJUUUUUUUU     UUUUUUUULLLLLLLLLLL
+  *              J:::::::::JU::::::U     U::::::UL:::::::::L
+  *              J:::::::::JU::::::U     U::::::UL:::::::::L
+  *              JJ:::::::JJUU:::::U     U:::::UULL:::::::LL
+  *                J:::::J   U:::::U     U:::::U   L:::::L
+  *                J:::::J   U:::::D     D:::::U   L:::::L
+  *                J:::::J   U:::::D     D:::::U   L:::::L
+  *                J:::::j   U:::::D     D:::::U   L:::::L
+  *                J:::::J   U:::::D     D:::::U   L:::::L
+  *    JJJJJJJ     J:::::J   U:::::D     D:::::U   L:::::L
+  *    J:::::J     J:::::J   U:::::D     D:::::U   L:::::L
+  *    J::::::J   J::::::J   U::::::U   U::::::U   L:::::L         LLLLLL
+  *    J:::::::JJJ:::::::J   U:::::::UUU:::::::U LL:::::::LLLLLLLLL:::::L
+  *     JJ:::::::::::::JJ     UU:::::::::::::UU  L::::::::::::::::::::::L
+  *       JJ:::::::::JJ         UU:::::::::UU    L::::::::::::::::::::::L
+  *         JJJJJJJJJ             UUUUUUUUU      LLLLLLLLLLLLLLLLLLLLLLLL
+  *
+  *
+
+- CTRL C
+- VALGRIND
